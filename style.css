@@ -1,0 +1,61 @@
+. form-group-lg{
+	margin: 100px;
+	padding: 30px;
+}
+
+.list-group{
+	padding: 10px;
+   display:inline-block;
+}
+
+
+
+label{
+	padding: 10px;
+	font-family: Comic Sans MS;
+
+}
+
+.btn-primary:hover{
+	background-color: red;
+}
+
+.btn-outline-primary{
+	margin: 10px;
+	font-size: 10px;
+	white-space: 20%;
+	height: 27px;
+}
+
+.list-group-item{
+	display: flex;
+	list-style-type: circle;
+
+}
+
+.list-group-item:hover{
+	background-color: yellow;
+}
+
+
+.list-group-item-action{
+	width:600px;
+    display:inline-block;
+}
+
+
+.btn-danger{
+	/*background-color: grey;*/
+	background-blend-mode: normal;
+	background-position: center;
+}
+
+.btn-danger:hover{
+	background-color: red;
+}
+
+.btn-danger{
+  width: 50px;
+  font-size: 10px;
+   
+}
